@@ -2,7 +2,7 @@
 <manifest>
   <remote name="nexell"
       fetch="https://github.com"
-      review="gerrithub.coasianexell.com"
+      review="gerrit.coasianexell.com"
       sync-j="8"
   />
   <project path="gerrit_reviewtest" name="CoasiaNexell/gerrit_reviewtest" groups="test" remote="nexell" revision="master" />
